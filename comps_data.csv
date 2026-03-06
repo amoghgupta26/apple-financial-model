@@ -1,0 +1,7 @@
+Company,Ticker,Market_Cap_B,EV_B,Revenue_TTM_B,EBITDA_TTM_B,Net_Income_TTM_B,EV_Revenue,EV_EBITDA,P_E,EPS_Growth_5Y,Gross_Margin,EBITDA_Margin,Net_Margin
+Apple,AAPL,2850,2920,385.6,125.8,97.0,7.6x,23.2x,29.4x,12.5%,43.8%,32.6%,25.1%
+Microsoft,MSFT,3100,3150,236.6,103.5,82.8,13.3x,30.4x,37.5x,18.2%,69.4%,43.7%,35.0%
+Alphabet,GOOGL,2050,1990,307.4,92.0,73.8,6.5x,21.6x,27.8x,20.1%,56.5%,29.9%,24.0%
+Meta Platforms,META,1350,1300,134.9,56.3,39.1,9.6x,23.1x,34.6x,25.3%,80.7%,41.7%,29.0%
+Samsung Electronics,005930.KS,380,320,200.7,38.2,14.6,1.6x,8.4x,26.1x,8.0%,36.8%,19.0%,7.3%
+Sony Group,SONY,115,140,86.9,9.4,6.8,1.6x,14.9x,16.9x,5.0%,28.0%,10.8%,7.8%
