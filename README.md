@@ -122,8 +122,6 @@ That said, I think the market is pricing in a reasonable bull case on Services a
 
 The position I'd take: **Hold existing, don't add at $195.** Wait for a pullback toward $160–$170 before building a position.
 
-> ⚠️ Student project — not investment advice.
-
 ---
 
 ## 📚 Data Sources
